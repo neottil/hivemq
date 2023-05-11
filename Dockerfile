@@ -1,3 +1,4 @@
+# Public hivemq image
 FROM hivemq/hivemq4:4.15.0
 
 EXPOSE 1883
